@@ -23,7 +23,7 @@ Clicking a row opens a detail dialog with:
   <tr>
     <td align="center">
       <img src="screenshots/Screenshot_Full_Table.png" width="500"/>
-      <br><sub>Main view</sub>
+      <br><sub>Main View</sub>
     </td>
     <td align="center">
       <img src="screenshots/Screenshot_Complete_Example.png" width="500"/>
@@ -40,7 +40,7 @@ Clicking a row opens a detail dialog with:
     </td>
     <td align="center">
       <img src="screenshots/Screenshot_Loading.png" width="500"/>
-      <br><sub>On the Home Screen</sub>
+      <br><sub>Resources Loading Screen</sub>
     </td>
   </tr>
 </table>
