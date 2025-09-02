@@ -52,7 +52,6 @@ Clicking a row opens a detail dialog with:
 1. Clone the repo:
    
 ```
-   bash
    git clone [this repo]
    cd resource-viewer
 ```
