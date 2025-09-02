@@ -23,11 +23,11 @@ Clicking a row opens a detail dialog with:
   <tr>
     <td align="center">
       <img src="screenshots/Screenshot_Full_Table.png" width="500"/>
-      <br><sub>Main View</sub>
+      <br><sub>Main Table View</sub>
     </td>
     <td align="center">
       <img src="screenshots/Screenshot_Complete_Example.png" width="500"/>
-      <br><sub>User Detail</sub>
+      <br><sub>Processing Complete Example</sub>
     </td>
   </tr>
 </table>
@@ -36,7 +36,7 @@ Clicking a row opens a detail dialog with:
   <tr>
 	<td align="center">
       <img src="screenshots/Screenshot_Fail_Example.png"width="500"/>
-      <br><sub>Search</sub>
+      <br><sub>Processing Failed Tag Example</sub>
     </td>
     <td align="center">
       <img src="screenshots/Screenshot_Loading.png" width="500"/>
@@ -104,6 +104,14 @@ Clicking a row opens a detail dialog with:
             •	patientId: string
             •	uid: string
 
+<table>
+  <tr>
+	<td align="center">
+      <img src="screenshots/Screenshot_Firestore.png"width="1000"/>
+      <br><sub>Firestore Structure</sub>
+    </td>
+  </tr>
+</table>
 
 ## 📂  Folder Structure
 	src/
