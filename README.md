@@ -52,7 +52,7 @@ Clicking a row opens a detail dialog with:
 1. Clone the repo:
    
 ```
-   git clone [this repo]
+   git clone https://github.com/bakr98/resource-viewer
    cd resource-viewer
 ```
 
