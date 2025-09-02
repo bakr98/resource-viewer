@@ -72,7 +72,7 @@ Clicking a row opens a detail dialog with:
 
 7.  Set up Firestore
 
-    (See 🔧 Firestore Setup below)
+    (See 🔥 Firestore Setup below)
 
 <br>
 
